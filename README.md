@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @SMooreSwe
-- 👀 I’m interested in WebDev
-- 🌱 I’m currently learning Javascript
+Web Developer in Training - Full Stack | Vanilla JS | Typescript | Node.js | GIT | Express | REST
+
+Residing in Stockholm and studying at </SALT> to train as a Full-Stack Web Developer. I previously worked as a Criminal Law and Family Law Barrister in the UK.
+
+Currently busy improving my Javascript, Typescript, HTML, CSS and Swedish, as well as raising a Bracco Italiano .
 
 
 <!---
