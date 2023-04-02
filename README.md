@@ -1,4 +1,4 @@
-Web Developer in Training - Full Stack | Vanilla JS | Typescript | Node.js | GIT | Express | REST
+Web Developer in Training - Web Developer in Training - Full Stack | Vanilla JS | Typescript | Node.js | GIT | Express | REST | GraphQL | REACT | Redux/RTK | MongoDB | PostgreSQL | NextJS
 
 Residing in Stockholm and studying at </SALT> to train as a Full-Stack Web Developer. I previously worked as a Criminal Law and Family Law Barrister in the UK.
 
