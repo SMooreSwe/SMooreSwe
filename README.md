@@ -1,4 +1,4 @@
-Web Developer in Training - Web Developer in Training - Full Stack | Vanilla JS | Typescript | Node.js | GIT | Express | REST | GraphQL | REACT | Redux/RTK | MongoDB | PostgreSQL | NextJS
+Consultant Full Stack Web Developer - Full Stack | Vanilla JS | Typescript | Node.js | GIT | Express | REST | GraphQL | REACT | Redux/RTK | MongoDB | PostgreSQL | NextJS
 
 I am 34 years old and residing in Stockholm. I have graduated from SALT as a Full-Stack Javascript Web Developer. Prior to moving to tech, I worked as a Criminal Law and Family Law Barrister in the UK (yes, we still do use the wigs and gowns!).
 
