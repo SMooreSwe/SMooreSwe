@@ -11,7 +11,7 @@
 
 ---
 
-## ❓ About Me
+## About Me
 
 I am 34 years old and residing in Stockholm. I have graduated from SALT as a Full-Stack Javascript Web Developer following over 500 hours of coding time during a period of 12 weeks. The intensive course involved mob programming, weekly coding tests, agile methodologies and weekly demos.
 
@@ -21,7 +21,7 @@ I am currently busy improving my Javascript, Typescript, HTML, CSS and Swedish, 
 
 ---
 
-## 🛠️: Languages and Tools:
+## Languages and Tools:
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
