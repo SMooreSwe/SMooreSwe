@@ -43,7 +43,9 @@ I am currently busy improving my Javascript, Typescript, HTML, CSS and Swedish, 
 ---
 
 ## 📊 My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SMooreSwe&theme=transparent&hide_border=true&exclude_days=Sun%2CSat&card_width=850)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SMooreSwe&theme=transparent&hide_border=true&exclude_days=Sun%2CSat&card_width=495)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SMooreSwe&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 SMooreSwe/SMooreSwe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
