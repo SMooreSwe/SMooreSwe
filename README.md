@@ -6,6 +6,8 @@
     </a>
   </div>
 </div>
+<hr>
+
 Consultant Full Stack Web Developer - 
 
 Full Stack | Vanilla JS | Typescript | Node.js | GIT | Express | REST | GraphQL | REACT | Redux/RTK | MongoDB | PostgreSQL | NextJS
