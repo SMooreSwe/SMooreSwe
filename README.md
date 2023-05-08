@@ -9,8 +9,9 @@
 
 ---
 <div align="center">
-# Consultant Full Stack Web Developer 
+Consultant Full Stack Web Developer 
 </div>
+
 ---
 
 Full Stack | Vanilla JS | Typescript | Node.js | GIT | Express | REST | GraphQL | REACT | Redux/RTK | MongoDB | PostgreSQL | NextJS
