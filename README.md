@@ -1,12 +1,11 @@
-<header align="center" id="header">
+<div align="center" id="header">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/stephen-moore-swe/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=SMooreSwe&style=flat-square&color=blue" alt=""/>
-</header>
+</div>
 Consultant Full Stack Web Developer - 
 
 Full Stack | Vanilla JS | Typescript | Node.js | GIT | Express | REST | GraphQL | REACT | Redux/RTK | MongoDB | PostgreSQL | NextJS
