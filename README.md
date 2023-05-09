@@ -9,7 +9,6 @@
   </div>
 </div>
 
----
 
 ## About Me
 
@@ -19,7 +18,6 @@ Prior to moving to tech, I worked as a Criminal Law and Family Law Barrister in 
 
 I am currently busy improving my Javascript, Typescript, HTML, CSS and Swedish, as well as raising a Bracco Italiano 🐕.
 
----
 
 ## Languages and Tools:
 <div align="center">
