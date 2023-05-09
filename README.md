@@ -1,6 +1,6 @@
 <div align="center" id="header">
   
-# Consultant Full Stack Web Developer
+# Consultant Full Stack JavaScript Web Developer
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/stephen-moore-swe/">
