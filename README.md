@@ -12,11 +12,13 @@
 
 ## About Me
 
-I am 34 years old and residing in Stockholm. I have graduated from SALT as a Full-Stack Javascript Web Developer following over 500 hours of coding time during a period of 12 weeks. The intensive course involved mob programming, weekly coding tests, agile methodologies and weekly demos.
+I am 34 years old and residing in Stockholm. 
+
+I have graduated from SALT as a Full-Stack Javascript Web Developer following over 500 hours of coding time during a period of 12 weeks. The intensive course involved mob programming, weekly coding tests, agile methodologies and weekly demos.
 
 Prior to moving to tech, I worked as a Criminal Law and Family Law Barrister in the UK (yes, we still do use the wigs and gowns!👨‍⚖️).
 
-I am currently busy improving my Javascript, Typescript, HTML, CSS and Swedish, as well as raising a Bracco Italiano 🐕.
+I am currently busy improving my Typescript, Javascript, HTML, CSS and Swedish, as well as raising a Bracco Italiano 🐕.
 
 
 ## Languages and Tools:
@@ -37,8 +39,6 @@ I am currently busy improving my Javascript, Typescript, HTML, CSS and Swedish, 
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgresSQL"  alt="PostgresSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
 </div>
-
----
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SMooreSwe&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 <!---
