@@ -18,7 +18,7 @@ I have graduated from SALT as a Full-Stack Javascript Web Developer following ov
 
 Prior to moving to tech, I worked as a Criminal Law and Family Law Barrister in the UK (yes, we still do use the wigs and gowns!👨‍⚖️).
 
-I am currently busy improving my Typescript, Javascript, HTML, CSS and Swedish, as well as raising a Bracco Italiano 🐕.
+I am currently busy improving my Typescript, Javascript, HTML, CSS and Swedish, as well as raising a Bracco Italiano 🐕. I have also started to dabble in C# and the .Net environment too.
 
 
 ## Languages and Tools:
