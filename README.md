@@ -1,12 +1,14 @@
 <div align="center" id="header">
   
-# Full Stack Web Developer
+# Full Stack Web Developer 
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/stephen-moore-swe/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
+  
+ ## TypeScript | JavaScript | C#
 </div>
 
 
