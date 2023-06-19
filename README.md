@@ -18,7 +18,7 @@ I am 34 years old and residing in Stockholm.
 
 I have graduated from SALT as a Full-Stack Javascript Web Developer following over 500 hours of coding time during a period of 12 weeks. The intensive course involved mob programming, weekly coding tests, agile methodologies and weekly demos.
 
-Following this, I completed an accelerated course in C# and .NET, which I am continuing to build my knowledge and experience in.
+Following this, I completed an accelerated course in C# and .NET, which I am continuing to study and work with.
 
 Prior to moving to tech, I worked as a Criminal Law and Family Law Barrister in the UK (yes, we still do use the wigs and gowns!👨‍⚖️).
 
