@@ -14,7 +14,7 @@
 
 ## About Me
 
-I am 34 years old and residing in Stockholm. 
+I am 35 years old and residing in Stockholm. 
 
 I have graduated from SALT as a Full-Stack Javascript Web Developer following over 500 hours of coding time during a period of 12 weeks. The intensive course involved mob programming, weekly coding tests, agile methodologies and weekly demos.
 
