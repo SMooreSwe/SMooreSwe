@@ -14,15 +14,12 @@
 
 ## About Me
 
-I am 35 years old and residing in Stockholm. 
+I build things across the full stack — currently at Scania Group in Stockholm, working on fleet electrification planning tools in React/TypeScript, .NET/C#, and AWS.
 
-I have graduated from SALT as a Full-Stack Javascript Web Developer following over 500 hours of coding time during a period of 12 weeks. The intensive course involved mob programming, weekly coding tests, agile methodologies and weekly demos.
+Personal projects tend toward AI integration and real-time systems, though I'm still finding my feet in what interests me most outside of work.
 
-Following this, I completed an accelerated course in C# and .NET, which I am continuing to study and work with.
-
-Prior to moving to tech, I worked as a Criminal Law and Family Law Barrister in the UK (yes, we still do use the wigs and gowns!👨‍⚖️).
-
-I am currently busy improving my Typescript, Javascript, C# and Swedish, as well as raising a Bracco Italiano 🐕. 
+Ten years at the Bar in England & Wales before moving into tech. The through-line is the same: complex problems, clear thinking, precise communication.
+Based in Stockholm · British–Swedish
 
 
 ## Languages and Tools:
@@ -44,10 +41,6 @@ I am currently busy improving my Typescript, Javascript, C# and Swedish, as well
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" title="dotnet" alt="dotnet" width="40" height="40"/>&nbsp;
-  
-  ---
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMooreSwe&layout=compact&theme=transparent" /></a>
 </div>
 
 <!---
