@@ -14,9 +14,9 @@
 
 ## About Me
 
-I build things across the full stack — currently at Scania Group in Stockholm, working on fleet electrification planning tools in React/TypeScript, .NET/C#, and AWS.
+I build things across the full stack — currently at Avanade Sweden as a full-stack engineer in React/TypeScript, .NET/C#, and Azure.
 
-Personal projects tend toward AI integration and real-time systems, though I'm still finding my feet in what interests me most outside of work.
+Personal projects tend toward AI integration and real-time systems, outside work I am working on DIY, ever-improving Swedish and kickboxing. 
 
 Ten years at the Bar in England & Wales before moving into tech. The through-line is the same: complex problems, clear thinking, precise communication.
 Based in Stockholm · British–Swedish
